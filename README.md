@@ -9,6 +9,9 @@
 * URL
 * 伺服器回應的時間
 
+## 顯示畫面
+![middleware](README/middleware.png)
+
 ## 環境建置
 * express : 4.17.1"
 * moment : 2.29.1"
