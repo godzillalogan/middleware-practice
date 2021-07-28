@@ -9,7 +9,7 @@
 * URL
 * 伺服器回應的時間
 
-## 顯示畫面
+## 顯示畫面範例
 ![middleware](README/middleware.PNG)
 
 ## 環境建置
